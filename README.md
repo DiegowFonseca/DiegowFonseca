@@ -1,4 +1,4 @@
-# 👋 Olá! Bem-vindo(a) ao meu repositório!
+# Olá! Bem-vindo(a) ao meu repositório!
 
 ## Minha experiência:
 - 🌐 Tenho experiência em trabalhar com **PHP**, **Python**, **SQL** (**MySQL** e **PostgreSQL**) para desenvolvimento web e análise de dados.
@@ -19,7 +19,7 @@ Busco aplicar meu conhecimento técnico e minha experiência prática em manipul
 
 ---
 
-## 🛠 Hard Skills:
+## Hard Skills:
 - Python (pandas, numpy, matplotlib, seaborn)
 - SQL (MySQL, PostgreSQL)
 - PHP
@@ -28,7 +28,7 @@ Busco aplicar meu conhecimento técnico e minha experiência prática em manipul
 - Power BI
 - Git & Version Control
 
-## 💬 Soft Skills:
+## Soft Skills:
 - Trabalho em equipe
 - Proatividade
 - Aprendizado rápido
@@ -36,7 +36,7 @@ Busco aplicar meu conhecimento técnico e minha experiência prática em manipul
 
 ---
 
-## 📂 Projetos e Atividades:
+## Projetos e Atividades:
 - Desenvolvimento de scripts de migração de dados em sistemas de produção.
 - Validação e análise de dados migrados por meio de relatórios customizados.
 - Criação de automações para tarefas operacionais utilizando Python e PHP.
@@ -45,9 +45,9 @@ Busco aplicar meu conhecimento técnico e minha experiência prática em manipul
 
 ---
 
-## 🌐 Connect with me:
+## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/diego-fonseca-9654902a2/)
 
 ---
 
-# 🚀 Vamos juntos explorar o poder dos dados!
+### Vamos juntos explorar o poder dos dados!
