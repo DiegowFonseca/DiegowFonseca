@@ -1,24 +1,53 @@
-<h1 align="center">Oi 👋, Eu sou o Diego</h1>
-<h3 align="center">Um estudante de Ciência de Dados</h3>
+# 👋 Olá! Bem-vindo(a) ao meu repositório!
 
+## Minha experiência:
+- 🌐 Tenho experiência em trabalhar com **PHP**, **Python**, **SQL** (**MySQL** e **PostgreSQL**) para desenvolvimento web e análise de dados.
+- 🔎 Trabalho atualmente com automação de tarefas, migração e análise de dados em sistemas de gestão e nota fiscal eletrônica.
+- 📚 Estudante de **Ciência da Computação** (3º período).
+- 🚀 Em transição para a área de **Ciência de Dados**, estudando **Python para Data Science**, **Machine Learning**, **Estatística**, **SQL** e **Power BI**.
+- 📧 Quer entrar em contato comigo? Envie um e-mail para: **[diegowfonseca@gmail.com]**.
 
-- 🌱 Atualmente estou aprendendo **Matplotlib, Machine Learning, Power BI e SQL**
-- 💬 Me pergunte sobre **Ciência de dados, negócios, tecnologia e etc**
-- 📫 Fale comigo em **diegowfonseca14@gmail.com**
-- ⚡ Curiosidades sobre mim **Amo ler e estudar e também fazer trilhas em montanhas**
+---
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diego fonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego fonseca" height="30" width="40" /></a>
-</p>
+## Sobre mim:
+Atualmente no 3º período de Ciência da Computação, venho construindo uma carreira sólida como desenvolvedor web, atuando em projetos que exigem forte capacidade de análise de dados, criação de automações e validações de informações.  
+Tenho experiência prática com **PHP**, **SQL** (**MySQL** e **PostgreSQL**) e **Python**, trabalhando na criação de scripts de migração, automação de tarefas e análise de grandes volumes de dados em sistemas de produção.
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Apaixonado por dados, estou em transição de carreira para atuar como **Cientista de Dados**, estudando de forma consistente **Python para análise de dados**, **Machine Learning**, **Estatística**, **SQL avançado** e ferramentas de **Business Intelligence**, como **Power BI**.
 
-<h3 align="left">GitHub e Stats:</h3>
+Busco aplicar meu conhecimento técnico e minha experiência prática em manipulação de dados para gerar **insights valiosos** e contribuir na **tomada de decisões estratégicas baseadas em dados**.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegowfonseca&show_icons=true&locale=en&layout=compact" alt="diegowfonseca" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegowfonseca&" alt="diegowfonseca" /></p>
+## 🛠 Hard Skills:
+- Python (pandas, numpy, matplotlib, seaborn)
+- SQL (MySQL, PostgreSQL)
+- PHP
+- Machine Learning (estudo de modelos supervisionados e não supervisionados)
+- Estatística descritiva e inferencial
+- Power BI
+- Git & Version Control
 
+## 💬 Soft Skills:
+- Trabalho em equipe
+- Proatividade
+- Aprendizado rápido
+- Autodidata
 
+---
+
+## 📂 Projetos e Atividades:
+- Desenvolvimento de scripts de migração de dados em sistemas de produção.
+- Validação e análise de dados migrados por meio de relatórios customizados.
+- Criação de automações para tarefas operacionais utilizando Python e PHP.
+- Estudo de algoritmos de Machine Learning para classificação e predição.
+- Projetos pessoais de Ciência de Dados aplicados a problemas reais (em desenvolvimento).
+
+---
+
+## 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/diego-fonseca-9654902a2/)
+
+---
+
+# 🚀 Vamos juntos explorar o poder dos dados!
